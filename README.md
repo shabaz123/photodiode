@@ -1,6 +1,7 @@
 # Fast-Responding Light Sensor / Radiometer
 
-This repo contains the Gerber files for assembling a circuit for observing the amount of light power hitting a particular sensor (photodiode)
+This repo contains the Gerber files for assembling a circuit for observing the amount of light power hitting a particular sensor (photodiode).
+
 Note that two PCBs are required; a front PCB, and a rear PCB. The rear PCB contains just a hole for a coax connector (SMA female connector).
 
 The front PCB contains the electronic parts on one side of the board, and the photodiode on the other side.
