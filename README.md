@@ -10,8 +10,10 @@ In-between the two PCBs is a small extruded aluminium case containing a battery 
 
 ## Files
 
-(1) export-gerbers-s1223-rev1.zip - Contains the files for the front PCB, which is designed for a Hamamatsu S1223 phtodiode.
+(1) export-gerbers-s1223-rev1.zip - Contains the files for the front PCB, which is designed for a Hamamatsu S1223 photodiode.
 
 (2) export-gerber-pd-sma-rev1.zip - Contains the files for the rear PCB, which just has a hole for a SMA connector.
 
 (3) export-gerbers-5mm-pd-rev1.zip - Contains an alternative front panel, suitable for 5 mm diameter photodiodes. If you use this board, then you don't need (1).
+
+(4) export-gerbers-s5973-rev1.zip - Contains the files for the front PCB, which is designed for a Hamamatsu S5973 photodiode.
